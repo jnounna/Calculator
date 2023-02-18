@@ -11,7 +11,7 @@ and parse those and hit equal and it will do the math.
 
 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/pzePj14JEj4)
 
 ## Development Environment
 
